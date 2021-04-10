@@ -57,6 +57,9 @@
 
   <img align="left" alt="Vesta's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Vesta-Nassone&show_icons=true&count_private=true&show_icons=true&theme=radical" />
 
-</details>
+</details><br/>
 
-[![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=Vesta-Nassone)](https://github.com/Vesta-Nassone/github-readme-stats)
+[![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=Vesta-Nassone)](https://github.com/Vesta-Nassone/github-readme-stats&layout=compact)
+
+[![Vesta's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Vesta-Nassone)](https://github.com/Vesta-Nassone/github-readme-stats&layout=compact)
+
