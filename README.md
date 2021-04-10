@@ -83,7 +83,7 @@
 <details>
 <summary>:zap: Top Languages</summary>
 <img align="left" alt="Vesta's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vesta-Nassone&layout=compact" />
-</details><br><br>
+</details><br>
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
