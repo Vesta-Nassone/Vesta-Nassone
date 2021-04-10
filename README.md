@@ -1,6 +1,6 @@
 ### Hi 👋🏾, I'm Vesta, thanks for stopping by.
-![Website](https://img.shields.io/website?down_color=red&down_message=offline&label=vestanassone.netlify.app&style=social&up_color=green&up_message=online&url=http%3A%2F%2Fvestanassone.netlify.app%2F)
-![Twitter Follow](https://img.shields.io/twitter/follow/NassoneVesta?style=social)
+![Website](https://img.shields.io/website?down_color=red&down_message=offline&label=vestanassone.netlify.app&style=for-the-badge&up_color=green&up_message=online&url=http%3A%2F%2Fvestanassone.netlify.app%2F)
+![Twitter Follow](https://img.shields.io/twitter/follow/NassoneVesta?style=for-the-badge)
 
 ## I'm a recent Computer Science and Engineering graduate.
 - 🌱 I’m currently learning everything 🤣
@@ -62,6 +62,6 @@
 </details><br/>
 <details>
 <summary>:zap: Top Languages</summary>
-[![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=Vesta-Nassone)](https://github.com/Vesta-Nassone/github-readme-stats&layout=compact)
+<img align="left" alt="Vesta's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vesta-Nassone&layout=compact" />
 </details>
 
