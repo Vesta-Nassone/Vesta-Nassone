@@ -55,6 +55,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Vesta's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Vesta-Nassone&show_icons=true&hide_border=true&count_private=true&show_icons=true&theme=radical" />
+  <img align="left" alt="Vesta's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Vesta-Nassone&show_icons=true&count_private=true&show_icons=true&theme=radical" />
 
 </details>
+
+[![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=Vesta-Nassone)](https://github.com/Vesta-Nassone/github-readme-stats)
