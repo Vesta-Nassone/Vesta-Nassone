@@ -22,12 +22,12 @@
     src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 [<img align="left" alt="vesta-nassone/ | LinkedIn" width="22px"
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]<br>
 
 [website]: https://vestanassone.netlify.app
 [twitter]: https://twitter.com/NassoneVesta
 [linkedin]: https://linkedin.com/in/vesta-nassone
-<br />
+<br>
 
 [<img src="https://https://spotify-phi.vercel.app/api/spotify-playing" alt="Vesta Spotify Playing" width="350" />](https://open.spotify.com/user/27amndlylbr8slf99urrrpfgs)
 
@@ -72,18 +72,18 @@
 <img align="left" alt="Linux" width="26px"
             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <img align="left" alt="Terminal" width="26px"
-            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /><br />
+            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /><br>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Vesta's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Vesta-Nassone&show_icons=true&count_private=true&theme=radical" />
 
-</details>
+</details><br>
 <details>
 <summary>:zap: Top Languages</summary>
 <img align="left" alt="Vesta's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vesta-Nassone&layout=compact" />
-</details>
+</details><br>
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
