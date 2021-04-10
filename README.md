@@ -60,7 +60,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Vesta's GitHub Stats" src="https://https://github-readme-stats-vesta-nassone.vercel.app//api?username=Vesta-Nassone&show_icons=true&count_private=true&show_icons=true&theme=radical" />
+  <img align="left" alt="Vesta's GitHub Stats" src="https://https://github-readme-stats-psi-ebon.vercel.app
+//api?username=Vesta-Nassone&show_icons=true&count_private=true&show_icons=true&theme=radical" />
 
 </details>
 <details>
