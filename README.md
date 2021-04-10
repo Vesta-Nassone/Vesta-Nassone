@@ -65,3 +65,11 @@
 <img align="left" alt="Vesta's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vesta-Nassone&layout=compact" />
 </details>
 
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
+
