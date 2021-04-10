@@ -1,4 +1,6 @@
 ### Hi 👋🏾, I'm Vesta, thanks for stopping by.
+![Website](https://img.shields.io/website?down_color=red&down_message=offline&label=vestanassone.netlify.app&style=plastic&up_color=green&up_message=online&url=http%3A%2F%2Fvestanassone.netlify.app%2F)
+![Twitter Follow](https://img.shields.io/twitter/follow/NassoneVesta?style=social)
 
 ## I'm a recent Computer Science and Engineering graduate.
 - 🌱 I’m currently learning everything 🤣
