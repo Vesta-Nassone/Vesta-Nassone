@@ -19,3 +19,6 @@
 
 [<img align="left" alt="vesta-nassone/ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+[website]: https://vestanassone.netlify.app
+[twitter]: https://twitter.com/NassoneVesta
+[linkedin]: https://linkedin.com/in/vesta-nassone
