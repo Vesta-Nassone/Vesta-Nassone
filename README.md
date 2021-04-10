@@ -29,7 +29,7 @@
 [linkedin]: https://linkedin.com/in/vesta-nassone
 <br />
 
-[<img src="https://spotify-nowplaying-ten.vercel.app/api/spotify-playing" alt="Vesta Spotify Playing" width="350" />](https://open.spotify.com/user/27amndlylbr8slf99urrrpfgs)
+[<img src="https://spotify-nowplaying-ten.vercel.app/api/spotify-playing" alt="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" width="350" />](https://open.spotify.com/user/27amndlylbr8slf99urrrpfgs)
 
 
 ### Languages and Tools:
