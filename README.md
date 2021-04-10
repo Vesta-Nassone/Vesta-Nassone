@@ -27,7 +27,6 @@
 [website]: https://vestanassone.netlify.app
 [twitter]: https://twitter.com/NassoneVesta
 [linkedin]: https://linkedin.com/in/vesta-nassone
-<br>
 
 [<img src="https://https://spotify-phi.vercel.app/api/spotify-playing" alt="Vesta Spotify Playing" width="350" />](https://open.spotify.com/user/27amndlylbr8slf99urrrpfgs)
 
