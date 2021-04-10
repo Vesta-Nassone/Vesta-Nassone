@@ -69,6 +69,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#12](https://github.com/Tripplo-Software/optimus/pull/12) in [Tripplo-Software/optimus](https://github.com/Tripplo-Software/optimus)
+2. 💪 Opened PR [#11](https://github.com/Tripplo-Software/optimus/pull/11) in [Tripplo-Software/optimus](https://github.com/Tripplo-Software/optimus)
+3. 💪 Opened PR [#10](https://github.com/Tripplo-Software/optimus/pull/10) in [Tripplo-Software/optimus](https://github.com/Tripplo-Software/optimus)
+4. ❌ Closed PR [#4](https://github.com/Tripplo-Software/optimus/pull/4) in [Tripplo-Software/optimus](https://github.com/Tripplo-Software/optimus)
+5. 🗣 Commented on [#4](https://github.com/Tripplo-Software/optimus/issues/4) in [Tripplo-Software/optimus](https://github.com/Tripplo-Software/optimus)
 <!--END_SECTION:activity-->
 
 </details>
