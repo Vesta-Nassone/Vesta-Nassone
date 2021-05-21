@@ -76,12 +76,12 @@
 <br><br><details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Vesta's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Vesta-Nassone&show_icons=true&count_private=true&theme=radical" />
+  <img align="left" alt="Vesta's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Vesta-Nassone&show_icons=true&count_private=true&theme=radical" /><br>
 
 </details><br>
 <details>
 <summary>:zap: Top Languages</summary>
-<img align="left" alt="Vesta's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vesta-Nassone&layout=compact" />
+<img align="left" alt="Vesta's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vesta-Nassone&layout=compact" /><br>
 </details><br>
 
 <details>
