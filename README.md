@@ -89,11 +89,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/Vesta-Nassone/Hotel-website/pull/4) in [Vesta-Nassone/Hotel-website](https://github.com/Vesta-Nassone/Hotel-website)
-2. 🗣 Commented on [#4](https://github.com/Vesta-Nassone/Hotel-website/issues/4) in [Vesta-Nassone/Hotel-website](https://github.com/Vesta-Nassone/Hotel-website)
-3. 💪 Opened PR [#4](https://github.com/Vesta-Nassone/Hotel-website/pull/4) in [Vesta-Nassone/Hotel-website](https://github.com/Vesta-Nassone/Hotel-website)
-4. 🗣 Commented on [#2](https://github.com/Vesta-Nassone/Hotel-website/issues/2) in [Vesta-Nassone/Hotel-website](https://github.com/Vesta-Nassone/Hotel-website)
-5. 🎉 Merged PR [#2](https://github.com/Vesta-Nassone/Hotel-website/pull/2) in [Vesta-Nassone/Hotel-website](https://github.com/Vesta-Nassone/Hotel-website)
+1. 🎉 Merged PR [#5](https://github.com/Vesta-Nassone/Hotel-website/pull/5) in [Vesta-Nassone/Hotel-website](https://github.com/Vesta-Nassone/Hotel-website)
+2. 🗣 Commented on [#5](https://github.com/Vesta-Nassone/Hotel-website/issues/5) in [Vesta-Nassone/Hotel-website](https://github.com/Vesta-Nassone/Hotel-website)
+3. 💪 Opened PR [#5](https://github.com/Vesta-Nassone/Hotel-website/pull/5) in [Vesta-Nassone/Hotel-website](https://github.com/Vesta-Nassone/Hotel-website)
+4. 🎉 Merged PR [#4](https://github.com/Vesta-Nassone/Hotel-website/pull/4) in [Vesta-Nassone/Hotel-website](https://github.com/Vesta-Nassone/Hotel-website)
+5. 🗣 Commented on [#4](https://github.com/Vesta-Nassone/Hotel-website/issues/4) in [Vesta-Nassone/Hotel-website](https://github.com/Vesta-Nassone/Hotel-website)
 <!--END_SECTION:activity-->
 
 </details>
