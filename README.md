@@ -2,16 +2,16 @@
 ![Website](https://img.shields.io/website?down_color=red&down_message=offline&label=vestanassone.netlify.app&style=for-the-badge&up_color=green&up_message=online&url=http%3A%2F%2Fvestanassone.netlify.app%2F)
 ![Twitter Follow](https://img.shields.io/twitter/follow/NassoneVesta?style=for-the-badge)
 
-## I'm a recent Computer Science and Engineering graduate.
-- 🌱 I’m currently learning everything 🤣
+## I'm a Junior Software Developer, Looking for work.
+- 🌱 I’m currently learning DRF, React and AWS.
 - 👯 I’m looking to collaborate with other developers on projects.
-- 🥅 2021 Goals:<br />
-*Improve my coding skills<br />
+- 🥅 2022 Goals:<br />
+*Improve my coding skills further<br />
 *Contribute more to Open Source projects<br />
 *Work on more side projects.<br />
 *Develop my professional Network<br />
 *& ofcourse to get a good job😉<br />
-- ⚡ Fun fact: I love to play chess on my spare time♟️
+- ⚡ Fun fact: I love to play chess on my spare time♟️My rating is over 1500 on chess.com
 
 ### Connect with me:
 
@@ -28,8 +28,6 @@
 [twitter]: https://twitter.com/NassoneVesta
 [linkedin]: https://linkedin.com/in/vesta-nassone
 
-[<img src="https://https://spotify-phi.vercel.app/api/spotify-playing" alt="Vesta Spotify Playing" width="350" />](https://open.spotify.com/user/27amndlylbr8slf99urrrpfgs)
-
 
 ### Languages and Tools:
 
@@ -39,10 +37,6 @@
             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="JavaScript" width="26px" 
             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Typescript" width="26px"
-            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="C++" width="26px"
-            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="HTML5" width="26px"
             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px"
@@ -53,15 +47,12 @@
             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Storybook" width="26px"
             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/storybook/storybook.png" />
-            
 <img align="left" alt="SQL" width="26px"
             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px"
             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Firebase" width="26px"
             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-<img align="left" alt="Android" width="26px"
-            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
 <img align="left" alt="Visual Studio Code" width="26px"
             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px"
