@@ -80,11 +80,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/Vesta-Nassone/Hotel-website/issues/7) in [Vesta-Nassone/Hotel-website](https://github.com/Vesta-Nassone/Hotel-website)
-2. 🎉 Merged PR [#7](https://github.com/Vesta-Nassone/Hotel-website/pull/7) in [Vesta-Nassone/Hotel-website](https://github.com/Vesta-Nassone/Hotel-website)
-3. 💪 Opened PR [#7](https://github.com/Vesta-Nassone/Hotel-website/pull/7) in [Vesta-Nassone/Hotel-website](https://github.com/Vesta-Nassone/Hotel-website)
-4. 🎉 Merged PR [#6](https://github.com/Vesta-Nassone/Hotel-website/pull/6) in [Vesta-Nassone/Hotel-website](https://github.com/Vesta-Nassone/Hotel-website)
-5. 🗣 Commented on [#6](https://github.com/Vesta-Nassone/Hotel-website/issues/6) in [Vesta-Nassone/Hotel-website](https://github.com/Vesta-Nassone/Hotel-website)
+1. 🗣 Commented on [#1](https://github.com/Vesta-Nassone/drf-ecommerce/issues/1) in [Vesta-Nassone/drf-ecommerce](https://github.com/Vesta-Nassone/drf-ecommerce)
+2. 🎉 Merged PR [#1](https://github.com/Vesta-Nassone/drf-ecommerce/pull/1) in [Vesta-Nassone/drf-ecommerce](https://github.com/Vesta-Nassone/drf-ecommerce)
+3. 🗣 Commented on [#2](https://github.com/Vesta-Nassone/drf-ecommerce/issues/2) in [Vesta-Nassone/drf-ecommerce](https://github.com/Vesta-Nassone/drf-ecommerce)
+4. 🎉 Merged PR [#2](https://github.com/Vesta-Nassone/drf-ecommerce/pull/2) in [Vesta-Nassone/drf-ecommerce](https://github.com/Vesta-Nassone/drf-ecommerce)
+5. 🎉 Merged PR [#3](https://github.com/Vesta-Nassone/facebook-clone/pull/3) in [Vesta-Nassone/facebook-clone](https://github.com/Vesta-Nassone/facebook-clone)
 <!--END_SECTION:activity-->
 
 </details>
