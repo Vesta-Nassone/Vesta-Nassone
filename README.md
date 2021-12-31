@@ -80,11 +80,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Vesta-Nassone/drf-ecommerce/issues/1) in [Vesta-Nassone/drf-ecommerce](https://github.com/Vesta-Nassone/drf-ecommerce)
-2. 🎉 Merged PR [#1](https://github.com/Vesta-Nassone/drf-ecommerce/pull/1) in [Vesta-Nassone/drf-ecommerce](https://github.com/Vesta-Nassone/drf-ecommerce)
-3. 🗣 Commented on [#2](https://github.com/Vesta-Nassone/drf-ecommerce/issues/2) in [Vesta-Nassone/drf-ecommerce](https://github.com/Vesta-Nassone/drf-ecommerce)
-4. 🎉 Merged PR [#2](https://github.com/Vesta-Nassone/drf-ecommerce/pull/2) in [Vesta-Nassone/drf-ecommerce](https://github.com/Vesta-Nassone/drf-ecommerce)
-5. 🎉 Merged PR [#3](https://github.com/Vesta-Nassone/facebook-clone/pull/3) in [Vesta-Nassone/facebook-clone](https://github.com/Vesta-Nassone/facebook-clone)
+1. 🎉 Merged PR [#1](https://github.com/Vesta-Nassone/todo/pull/1) in [Vesta-Nassone/todo](https://github.com/Vesta-Nassone/todo)
+2. 🗣 Commented on [#1](https://github.com/Vesta-Nassone/todo/issues/1) in [Vesta-Nassone/todo](https://github.com/Vesta-Nassone/todo)
+3. 🗣 Commented on [#1](https://github.com/Vesta-Nassone/drf-ecommerce/issues/1) in [Vesta-Nassone/drf-ecommerce](https://github.com/Vesta-Nassone/drf-ecommerce)
+4. 🎉 Merged PR [#1](https://github.com/Vesta-Nassone/drf-ecommerce/pull/1) in [Vesta-Nassone/drf-ecommerce](https://github.com/Vesta-Nassone/drf-ecommerce)
+5. 🗣 Commented on [#2](https://github.com/Vesta-Nassone/drf-ecommerce/issues/2) in [Vesta-Nassone/drf-ecommerce](https://github.com/Vesta-Nassone/drf-ecommerce)
 <!--END_SECTION:activity-->
 
 </details>
