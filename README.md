@@ -80,11 +80,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Vesta-Nassone/pastebin-webapi/pull/1) in [Vesta-Nassone/pastebin-webapi](https://github.com/Vesta-Nassone/pastebin-webapi)
-2. 🎉 Merged PR [#2](https://github.com/Vesta-Nassone/todo/pull/2) in [Vesta-Nassone/todo](https://github.com/Vesta-Nassone/todo)
-3. 🎉 Merged PR [#1](https://github.com/Vesta-Nassone/todo/pull/1) in [Vesta-Nassone/todo](https://github.com/Vesta-Nassone/todo)
-4. 🗣 Commented on [#1](https://github.com/Vesta-Nassone/todo/issues/1) in [Vesta-Nassone/todo](https://github.com/Vesta-Nassone/todo)
-5. 🗣 Commented on [#1](https://github.com/Vesta-Nassone/drf-ecommerce/issues/1) in [Vesta-Nassone/drf-ecommerce](https://github.com/Vesta-Nassone/drf-ecommerce)
+1. 🗣 Commented on [#1](https://github.com/Vesta-Nassone/pastebin-webapi/issues/1) in [Vesta-Nassone/pastebin-webapi](https://github.com/Vesta-Nassone/pastebin-webapi)
+2. 🎉 Merged PR [#1](https://github.com/Vesta-Nassone/pastebin-webapi/pull/1) in [Vesta-Nassone/pastebin-webapi](https://github.com/Vesta-Nassone/pastebin-webapi)
+3. 💪 Opened PR [#1](https://github.com/Vesta-Nassone/pastebin-webapi/pull/1) in [Vesta-Nassone/pastebin-webapi](https://github.com/Vesta-Nassone/pastebin-webapi)
+4. 🎉 Merged PR [#2](https://github.com/Vesta-Nassone/todo/pull/2) in [Vesta-Nassone/todo](https://github.com/Vesta-Nassone/todo)
+5. 🎉 Merged PR [#1](https://github.com/Vesta-Nassone/todo/pull/1) in [Vesta-Nassone/todo](https://github.com/Vesta-Nassone/todo)
 <!--END_SECTION:activity-->
 
 </details>
