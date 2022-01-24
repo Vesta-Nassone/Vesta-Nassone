@@ -80,11 +80,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Vesta-Nassone/shopping-feeder-dashboard/pull/3) in [Vesta-Nassone/shopping-feeder-dashboard](https://github.com/Vesta-Nassone/shopping-feeder-dashboard)
-2. 🗣 Commented on [#3](https://github.com/Vesta-Nassone/shopping-feeder-dashboard/issues/3) in [Vesta-Nassone/shopping-feeder-dashboard](https://github.com/Vesta-Nassone/shopping-feeder-dashboard)
-3. 💪 Opened PR [#3](https://github.com/Vesta-Nassone/shopping-feeder-dashboard/pull/3) in [Vesta-Nassone/shopping-feeder-dashboard](https://github.com/Vesta-Nassone/shopping-feeder-dashboard)
-4. 🎉 Merged PR [#2](https://github.com/Vesta-Nassone/shopping-feeder-dashboard/pull/2) in [Vesta-Nassone/shopping-feeder-dashboard](https://github.com/Vesta-Nassone/shopping-feeder-dashboard)
-5. 🗣 Commented on [#2](https://github.com/Vesta-Nassone/shopping-feeder-dashboard/issues/2) in [Vesta-Nassone/shopping-feeder-dashboard](https://github.com/Vesta-Nassone/shopping-feeder-dashboard)
+1. 🎉 Merged PR [#4](https://github.com/Vesta-Nassone/shopping-feeder-dashboard/pull/4) in [Vesta-Nassone/shopping-feeder-dashboard](https://github.com/Vesta-Nassone/shopping-feeder-dashboard)
+2. 🗣 Commented on [#4](https://github.com/Vesta-Nassone/shopping-feeder-dashboard/issues/4) in [Vesta-Nassone/shopping-feeder-dashboard](https://github.com/Vesta-Nassone/shopping-feeder-dashboard)
+3. 💪 Opened PR [#4](https://github.com/Vesta-Nassone/shopping-feeder-dashboard/pull/4) in [Vesta-Nassone/shopping-feeder-dashboard](https://github.com/Vesta-Nassone/shopping-feeder-dashboard)
+4. 🎉 Merged PR [#3](https://github.com/Vesta-Nassone/shopping-feeder-dashboard/pull/3) in [Vesta-Nassone/shopping-feeder-dashboard](https://github.com/Vesta-Nassone/shopping-feeder-dashboard)
+5. 🗣 Commented on [#3](https://github.com/Vesta-Nassone/shopping-feeder-dashboard/issues/3) in [Vesta-Nassone/shopping-feeder-dashboard](https://github.com/Vesta-Nassone/shopping-feeder-dashboard)
 <!--END_SECTION:activity-->
 
 </details>
