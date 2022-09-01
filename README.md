@@ -7,11 +7,9 @@
 - 🌱 I’m currently learning DRF, React and AWS.
 - 👯 I’m looking to collaborate with other developers on projects.
 - 🥅 2022 Goals:<br />
-*Improve my coding skills further<br />
 *Contribute more to Open Source projects<br />
 *Work on more side projects.<br />
 *Develop my professional Network<br />
-*& ofcourse to get a good job😉<br />
 - ⚡ Fun fact: I love to play chess on my spare time♟️My rating is over 1500 on chess.com
 
 ### Connect with me:
