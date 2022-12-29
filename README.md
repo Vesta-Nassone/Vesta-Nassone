@@ -3,7 +3,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/NassoneVesta?style=for-the-badge)
 [![wakatime](https://wakatime.com/badge/user/daedc81b-0b1b-4ce5-b909-28278baae93f.svg)](https://wakatime.com/@daedc81b-0b1b-4ce5-b909-28278baae93f)
 
-## I'm a Junior Software Developer.
+## I'm a Software Developer.
 - 🌱 I’m currently learning DRF, React and AWS.
 - 👯 I’m looking to collaborate with other developers on projects.
 - 🥅 2022 Goals:<br />
