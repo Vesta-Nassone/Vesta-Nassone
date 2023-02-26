@@ -4,7 +4,7 @@
 [![wakatime](https://wakatime.com/badge/user/daedc81b-0b1b-4ce5-b909-28278baae93f.svg)](https://wakatime.com/@daedc81b-0b1b-4ce5-b909-28278baae93f)
 
 ## I'm a Software Developer.
-- 🌱 I’m currently learning DRF and AWS.
+- 🌱 I’m currently learning AWS.
 - 👯 I’m looking to collaborate with other developers on projects.
 - 🥅 2023 Goals:<br />
 *Contribute more to Open Source projects<br />
