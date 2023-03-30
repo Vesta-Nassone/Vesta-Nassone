@@ -79,7 +79,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/Vesta-Nassone/facebook-clone/pull/4) in [Vesta-Nassone/facebook-clone](https://github.com/Vesta-Nassone/facebook-clone)
+1. 💪 Opened PR [#1](https://github.com/Vesta-Nassone/Vesta-Nassone/pull/1) in [Vesta-Nassone/Vesta-Nassone](https://github.com/Vesta-Nassone/Vesta-Nassone)
 2. 🎉 Merged PR [#3](https://github.com/Vesta-Nassone/drf-ecommerce/pull/3) in [Vesta-Nassone/drf-ecommerce](https://github.com/Vesta-Nassone/drf-ecommerce)
 3. 🎉 Merged PR [#9](https://github.com/Vesta-Nassone/IMDb_clone/pull/9) in [Vesta-Nassone/IMDb_clone](https://github.com/Vesta-Nassone/IMDb_clone)
 4. 🎉 Merged PR [#4](https://github.com/Vesta-Nassone/shopping-feeder-dashboard/pull/4) in [Vesta-Nassone/shopping-feeder-dashboard](https://github.com/Vesta-Nassone/shopping-feeder-dashboard)
