@@ -79,10 +79,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Vesta-Nassone/Vesta-Nassone/pull/1) in [Vesta-Nassone/Vesta-Nassone](https://github.com/Vesta-Nassone/Vesta-Nassone)
-2. 🎉 Merged PR [#3](https://github.com/Vesta-Nassone/drf-ecommerce/pull/3) in [Vesta-Nassone/drf-ecommerce](https://github.com/Vesta-Nassone/drf-ecommerce)
-3. 🎉 Merged PR [#9](https://github.com/Vesta-Nassone/IMDb_clone/pull/9) in [Vesta-Nassone/IMDb_clone](https://github.com/Vesta-Nassone/IMDb_clone)
-4. 🎉 Merged PR [#4](https://github.com/Vesta-Nassone/shopping-feeder-dashboard/pull/4) in [Vesta-Nassone/shopping-feeder-dashboard](https://github.com/Vesta-Nassone/shopping-feeder-dashboard)
+1. 🎉 Merged PR [#2](https://github.com/Vesta-Nassone/Vesta-Nassone/pull/2) in [Vesta-Nassone/Vesta-Nassone](https://github.com/Vesta-Nassone/Vesta-Nassone)
+2. 💪 Opened PR [#2](https://github.com/Vesta-Nassone/Vesta-Nassone/pull/2) in [Vesta-Nassone/Vesta-Nassone](https://github.com/Vesta-Nassone/Vesta-Nassone)
+3. 🎉 Merged PR [#1](https://github.com/Vesta-Nassone/Vesta-Nassone/pull/1) in [Vesta-Nassone/Vesta-Nassone](https://github.com/Vesta-Nassone/Vesta-Nassone)
+4. 💪 Opened PR [#1](https://github.com/Vesta-Nassone/Vesta-Nassone/pull/1) in [Vesta-Nassone/Vesta-Nassone](https://github.com/Vesta-Nassone/Vesta-Nassone)
 5. 🗣 Commented on [#4](https://github.com/Vesta-Nassone/shopping-feeder-dashboard/issues/4) in [Vesta-Nassone/shopping-feeder-dashboard](https://github.com/Vesta-Nassone/shopping-feeder-dashboard)
 <!--END_SECTION:activity-->
 
